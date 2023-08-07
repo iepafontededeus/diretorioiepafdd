@@ -2,7 +2,7 @@
 // ---------- script properties ----------
 
 
-var results_location = "results.html";
+var results_location = "search.html";
 
 
 // ---------- end of script properties ----------
