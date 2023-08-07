@@ -29,6 +29,12 @@ s[15] = "IEP A Fonte de Deus Instagram^https://instagram.com/iepafontededeus^Per
 s[16] = "IEP A Fonte de Deus Facebook^https://facebook.com/afontededeusoficial^Perfil da igreja no facebook^facebook, igreja, perfil, internet, site";
 s[17] = "IEP A Fonte de Deus Tiktok^https://tiktok.com/@iepafontededeus^Perfil da igreja no Tiktok^tiktok, igreja, tik tok, perfil, internet, site";
 s[18] = "Pastor Jesus Instagram^https://instagram.com/pastor.jesusiep^Perfil do Pastor Jesus no instagram^instagram, perfil, internet, pastor, site";
+s[19] = "Diretório IEP A Fonte de Deus^https://diretorio.iepafontededeus.com.br/^Diretório de videos dos cultos da IEP A Fonte de Deus^diretório, diretorio, igreja, site";
+s[20] = "Cultos Quarta-Feira dia 02/08/2023 (Rincão)^https://diretorio.iepafontededeus.com.br/02-08-2023/^Videos dos cultos do dia 02 de agosto de 2023 (Quarta-Feira) (Rincão)^cultos, culto, quarta, quarta-feira, quarta feira, rincão, rincao, agosto, 2023";
+s[21] = "Cultos Quinta-Feira dia 03/08/2023 (Canta Galo, Recanto)^https://diretorio.iepafontededeus.com.br/03-08-2023/^Videos dos cultos do dia 03 de agosto de 2023 (Quinta-Feira) (Canta Galo, Recanto)^cultos, culto, quinta, quinta-feira, quinta feira, canta galo, recanto, agosto, 2023";
+s[22] = "Cultos Sexta-Feira dia 04/08/2023 (Canta Galo, Perus)^https://diretorio.iepafontededeus.com.br/04-08-2023/^Videos dos cultos do dia 04 de agosto de 2023 (Sexta-Feira) (Canta Galo, Perus) (7 Elo campanha Restauração a Dois)^cultos, culto, sexta, sexta-feira, sexta feira, canta galo, perus, campanha, agosto, 2023";
+s[23] = "Cultos Sábado dia 05/08/2023 (Canta Galo, Rincão)^https://diretorio.iepafontededeus.com.br/05-08-2023/^Videos dos cultos do dia 05 de agosto de 2023 (Sábado) (Canta Galo, Rincão)^cultos, culto, sabado, canta galo, rincão, rincao, agosto, 2023";
+s[24] = "Cultos Domingo dia 06/08/2023 (Canta Galo, Recanto, Rincão, Perus)^https://diretorio.iepafontededeus.com.br/06-08-2023/^Videos dos cultos do dia 06 de agosto de 2023 (Domingo) (Canta Galo, Recanto, Rincão, Perus)^cultos, culto, domingo, canta galo, rincão, rincao, recanto, perus, agosto, 2023";
 
 // ---------- end of script properties and sites ----------
 
