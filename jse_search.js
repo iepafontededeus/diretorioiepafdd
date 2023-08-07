@@ -23,7 +23,12 @@ s[9] = "Testemunho e revelação de emprego aonde não existia, 7 elo restauraç
 s[10] = "Revelação para o obreiro Cléssio de honra na vida empresarial, 7 elo restauração a dois (Perus 04/08/2023)^04-08-2023/#revelacaoclessioempresario^Pastor revelou para Cooperador Cléssio que Deus estará honrando ele e que ele irá ser bem sucedido na vida empresarial.^revelação, dinheiro";
 s[11] = "Testemunho de emprego na consagração (Canta Galo 05/08/2023)^05-08-2023/^Irmã dá o testemunho de emprego na consagração.^testemunho, emprego";
 s[12] = "Oração final 2023, 7 elo restauração a dois (Perus 04/08/2023)^04-08-2023/#oracaofinalrestadois2023^Pastor fazendo a oração final para a campanha da vida sentimental de 2023.^oração, campanha";
-
+s[13] = "Google^https://google.com^O mecanismo de busca mais usado do mundo^google, pesquisa, internet, site";
+s[14] = "IEP A Fonte de Deus Youtube^https://youtube.com/@iepafontededeus^Canal da igreja no youtube^youtube, igreja, canal, internet, site";
+s[15] = "IEP A Fonte de Deus Instagram^https://instagram.com/iepafontededeus^Perfil da igreja no instagram^instagram, igreja, perfil, internet, site";
+s[16] = "IEP A Fonte de Deus Facebook^https://facebook.com/afontededeusoficial^Perfil da igreja no facebook^facebook, igreja, perfil, internet, site";
+s[17] = "IEP A Fonte de Deus Tiktok^https://tiktok.com/@iepafontededeus^Perfil da igreja no Tiktok^tiktok, igreja, tik tok, perfil, internet, site";
+s[18] = "Pastor Jesus Instagram^https://instagram.com/pastor.jesusiep^Perfil do Pastor Jesus ni instagram^instagram, perfil, internet, pastor, site";
 
 // ---------- end of script properties and sites ----------
 
