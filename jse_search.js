@@ -28,7 +28,7 @@ s[14] = "IEP A Fonte de Deus Youtube^https://youtube.com/@iepafontededeus^Canal 
 s[15] = "IEP A Fonte de Deus Instagram^https://instagram.com/iepafontededeus^Perfil da igreja no instagram^instagram, igreja, perfil, internet, site";
 s[16] = "IEP A Fonte de Deus Facebook^https://facebook.com/afontededeusoficial^Perfil da igreja no facebook^facebook, igreja, perfil, internet, site";
 s[17] = "IEP A Fonte de Deus Tiktok^https://tiktok.com/@iepafontededeus^Perfil da igreja no Tiktok^tiktok, igreja, tik tok, perfil, internet, site";
-s[18] = "Pastor Jesus Instagram^https://instagram.com/pastor.jesusiep^Perfil do Pastor Jesus ni instagram^instagram, perfil, internet, pastor, site";
+s[18] = "Pastor Jesus Instagram^https://instagram.com/pastor.jesusiep^Perfil do Pastor Jesus no instagram^instagram, perfil, internet, pastor, site";
 
 // ---------- end of script properties and sites ----------
 
