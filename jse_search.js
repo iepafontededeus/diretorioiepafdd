@@ -10,8 +10,8 @@ var bold = 0;
 
 var s = new Array();
 
-s[0] = "JSE^form.html^Enter JSE in the example above ...^open source, free, client side";
-s[1] = "JSE DOCUMENTATION^doc.txt^JSE is a client-side local site search engine. Written entirely in JavaScript 1.3 it works with browsers from Netscape 4.7 to Microsoft Internet Explorer 6.0 ...^ faq, docs, instructions";
+s[0] = "Testemunho de emprego na consagração (Canta Galo 05/08/2023)^05-08-2023/^Irmã dá o testemunho de emprego na consagração.^testemunho, emprego";
+s[1] = "Oração final 2023, 7 elo restauração a dois (Perus 04/08/2023)^04-08-2023/"oracaofinalrestadois2023^Pastor fazendo a oração final para a campanha da vida sentimental de 2023.^oração, campanha";
 s[2] = "Testemunho Irmã Dani cura dor há anos, depressão emprego e namoro (Rincão 02/08/2023)^02-08-2023/^Testemunho Irmã Dani, ela estava afastada da igreja e entrando em depressão, Deus falou com ela no primeiro dia atráves do pastor de uma dor que ela tinha há anos, e ela estava desempregada mesmo sendo bacharel em direito, pastor orou e em 1 semana foi indicada para o gestor e passou, e ela conseguiu um namorado.^testemunho, cura, emprego, depressão, namoro";
 s[3] = "Revelação cura das trompas da irmã (Rincão 02/08/2023)^02-08-2023/#revelacaotrompas^Pastor orou na fila e revelou que havia algo inpedindo as trompas da irmã, mas que Deus iria dar vitória e ela vai ter um bebê que é a cara do marido dela.^revelação, trompas, cura, trombas, trompa, tromba";
 s[4] = "Oração para o Marquinho (Canta Galo 03/08/2023)^03-08-2023/^Pastor levanta a igreja para orar pelo Marquinho do Canta Galo, ele pede para Deus fazer a vontade Dele.^oração";
@@ -21,7 +21,6 @@ s[7] = "Testemunho marido voltou e bateu na porta, 7 elo restauração a dois (P
 s[8] = "Testemunho Natália casamento restituido, 7 elo restauração a dois (Perus 04/08/2023)^04-08-2023/#nataliacasamentorestituido^Testemunho Irmã Natália que teve seu casamento restituido após a campanha da vida sentimental de 2023.^testemunho, campanha, amor";
 s[9] = "Testemunho e revelação de emprego aonde não existia, 7 elo restauração a dois (Perus 04/08/2023)^04-08-2023/#vagaondenaoexistia^Testemunho (e revelação) do irmão que o pastor disse que iria conseguir uma vaga aonde não existia.^testemunho, revelação, emprego";
 s[10] = "Revelação para o obreiro Cléssio de honra na vida empresarial, 7 elo restauração a dois (Perus 04/08/2023)^04-08-2023/#revelacaoclessioempresario^Pastor revelou para Cooperador Cléssio que Deus estará honrando ele e que ele irá ser bem sucedido na vida empresarial.^revelação, dinheiro";
-s[11] = "Oração final 2023, 7 elo restauração a dois (Perus 04/08/2023)^04-08-2023/"oracaofinalrestadois2023^Pastor fazendo a oração final para a campanha da vida sentimental de 2023.^oração, campanha";
 
 
 // ---------- end of script properties and sites ----------
