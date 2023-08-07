@@ -12,7 +12,7 @@ var s = new Array();
 
 s[0] = "JSE^form.html^Enter JSE in the example above ...^open source, free, client side";
 s[1] = "JSE DOCUMENTATION^doc.txt^JSE is a client-side local site search engine. Written entirely in JavaScript 1.3 it works with browsers from Netscape 4.7 to Microsoft Internet Explorer 6.0 ...^ faq, docs, instructions";
-s[2] = "Testemunho Irmã Dani cura dor há anos, depressão emprego e namoro -Rincão 02/08/2023-^02-08-2023/^Testemunho Irmã Dani. ela estava afastada da igreja e entrando em depressão. Deus falou com ela no primeiro dia atráves do pastor de uma dor que ela tinha há anos. e ela estava desempregada mesmo sendo bacharel em direito. pastor orou e em 1 semana foi indicada para o gestor e passou. e ela conseguiu um namorado.^testemunho, cura, emprego, depressão, namoro";
+s[2] = "Testemunho Irmã Dani cura dor há anos, depressão emprego e namoro (Rincão 02/08/2023)^02-08-2023/^Testemunho Irmã Dani, ela estava afastada da igreja e entrando em depressão, Deus falou com ela no primeiro dia atráves do pastor de uma dor que ela tinha há anos, e ela estava desempregada mesmo sendo bacharel em direito, pastor orou e em 1 semana foi indicada para o gestor e passou, e ela conseguiu um namorado.^testemunho, cura, emprego, depressão, namoro";
 
 // ---------- end of script properties and sites ----------
 
