@@ -20,6 +20,7 @@ s[6] = "Testemunho irmã desempregada a 2 (dois) anos, 7 elo restauração a doi
 s[7] = "Testemunho marido voltou e bateu na porta, 7 elo restauração a dois (Perus 04/08/2023)^04-08-2023/#baternaporta^Testemunho da irmã que o pastor revelou que o ex-marido dela ia bater na porta e que ela iria dar testemunho na próxima sexta feira (dia 04/08/2023), ela estava fazendo a unha e não esperava ele, e o mesmo não deixou ela fazer a unha, e ele disse que amava ela.^testemunho, campanha, amor";
 s[8] = "Testemunho Natália casamento restituido, 7 elo campanha restauração a dois (Perus 04/08/2023)^04-08-2023/#nataliacasamentorestituido^Testemunho Irmã Natália que teve seu casamento restituido após a campanha da vida sentimental de 2023.^testemunho, campanha, amor";
 s[9] = "Testemunho e revelação de emprego aonde não existia, 7 elo campanha restauração a dois (Perus 04/08/2023)^04-08-2023/#vagaondenaoexistia^Testemunho (e revelação) do irmão que o pastor disse que iria conseguir uma vaga aonde não existia.^testemunho, revelação, emprego";
+s[10] = "Revelação para o obreiro Cléssio de honra na vida empresarial, 7 elo campanha restauração a dois (Perus 04/08/2023)^04-08-2023/#revelacaoclessioempresario^Pastor revelou para Cooperador Cléssio que Deus estará honrando ele e que ele irá ser bem sucedido na vida empresarial.^revelação, dinheiro";
 
 
 // ---------- end of script properties and sites ----------
