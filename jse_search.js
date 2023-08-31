@@ -56,6 +56,8 @@ s[42] = "Cultos Sábado dia 12/08/2023 (Canta Galo, Rincão, Recanto, Perus)^htt
 s[43] = "Testemunho de emprego no SBT (Rincão 12/08/2023)^https://diretorio.iepafontededeus.com.br/12-08-2023/#trabalhosbt^Testemunho da Irmã que tinha o sonho de trabalhar no SBT.^emprego, sbt, tv, televisão, televisao, testemunho, rincão, rincao, tarde da benção, tarde da bencão, tarde da bencao";
 s[44] = "Cultos Quarta-Feira dia 16/08/2023 (Rincão)^https://diretorio.iepafontededeus.com.br/16-08-2023^Videos dos cultos do dia 16 de agosto de 2023 (Quarta-Feira) (Rincão)^cultos, culto, quarta, quarta-feira, quarta feira, rincão, rincao, agosto, 2023";
 s[45] = "Testemunho Irmã concorreu com 12 pessoas (Rincão 16/08/2023)^https://diretorio.iepafontededeus.com.br/16-08-2023^Testemunho, irmã concorreu com 12 pessoas e ficou em terceiro lugar, mas os dois desistiram e o cargo ficou para ela.^testemunho, emprego, desistir, desistiram, vaga, rincao, rincão";
+s[46] = "Cultos Quarta-Feira dia 30/08/2023 (Rincão)^https://diretorio.iepafontededeus.com.br/30-08-2023^Videos dos cultos do dia 30 de agosto de 2023 (Quarta-Feira) (Rincão)^cultos, culto, quarta, quarta-feira, quarta feira, rincão, rincao, agosto, 2023";
+s[47] = "Testemunho do jogador mirim sobre empresário^https://diretorio.iepafontededeus.com.br/30-08-2023/#jogadormirim^Jogador Mirim dá o testemunho na fila que Deus abriu as portas para ele, e que o empresário já chamou.^testemunho, jogador, futebol, empresario, empresário, rincao, rincão";
 
 // ---------- end of script properties and sites ----------
 
