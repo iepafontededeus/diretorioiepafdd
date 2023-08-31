@@ -53,6 +53,9 @@ s[39] = "Testemunho do estúdio Irmã Cris, 1 elo Chave da Vitória (Perus 11/08
 s[40] = "Testemunho da Irmã Daiana, bebê não tinha batimentos cardiacos, 1 elo Chave da Vitória (Perus 11/08/2023)^https://diretorio.iepafontededeus.com.br/11-08-2023/#bebedaiana^Testemunho da Irmã Daiana que o bebê dela não tinha batimentos cardiacos.^testemunho, cura, campanha, perus";
 s[41] = "Testemunho do Irmão Clécio de seu mercadinho, 1 elo Chave da Vitória (Perus 11/08/2023)^https://diretorio.iepafontededeus.com.br/11-08-2023/#cleciomercado^Testemunho do Irmão Clécio, Deus deu um mercado para ele^testemunho, mercado, chave, campanha, perus";
 s[42] = "Cultos Sábado dia 12/08/2023 (Canta Galo, Rincão, Recanto, Perus)^https://diretorio.iepafontededeus.com.br/12-08-2023/^Videos dos cultos do dia 12 de agosto de 2023 (Sábado) (Canta Galo, Rincão, Recanto, Perus) (Santa Ceia)^cultos, culto, sabado, canta galo, rincao, recanto, perus, ceia";
+s[43] = "Testemunho de emprego no SBT (Rincão 12/08/2023)^https://diretorio.iepafontededeus.com.br/12-08-2023/#trabalhosbt^Testemunho da Irmã que tinha o sonho de trabalhar no SBT.^emprego, sbt, tv, televisão, televisao, testemunho, rincão, rincao, tarde da benção, tarde da bencão, tarde da bencao";
+s[44] = "Cultos Quarta-Feira dia 16/08/2023 (Rincão)^https://diretorio.iepafontededeus.com.br/16-08-2023^Videos dos cultos do dia 16 de agosto de 2023 (Quarta-Feira) (Rincão)^cultos, culto, quarta, quarta-feira, quarta feira, rincão, rincao, agosto, 2023";
+s[45] = "Testemunho Irmã concorreu com 12 pessoas (Rincão 16/08/2023)^https://diretorio.iepafontededeus.com.br/16-08-2023^Testemunho, irmã concorreu com 12 pessoas e ficou em terceiro lugar, mas os dois desistiram e o cargo ficou para ela.^testemunho, emprego, desistir, desistiram, vaga, rincao, rincão";
 
 // ---------- end of script properties and sites ----------
 
