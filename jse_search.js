@@ -57,7 +57,8 @@ s[43] = "Testemunho de emprego no SBT (Rincão 12/08/2023)^https://diretorio.iep
 s[44] = "Cultos Quarta-Feira dia 16/08/2023 (Rincão)^https://diretorio.iepafontededeus.com.br/16-08-2023^Videos dos cultos do dia 16 de agosto de 2023 (Quarta-Feira) (Rincão)^cultos, culto, quarta, quarta-feira, quarta feira, rincão, rincao, agosto, 2023";
 s[45] = "Testemunho Irmã concorreu com 12 pessoas (Rincão 16/08/2023)^https://diretorio.iepafontededeus.com.br/16-08-2023^Testemunho, irmã concorreu com 12 pessoas e ficou em terceiro lugar, mas os dois desistiram e o cargo ficou para ela.^testemunho, emprego, desistir, desistiram, vaga, rincao, rincão";
 s[46] = "Cultos Quarta-Feira dia 30/08/2023 (Rincão)^https://diretorio.iepafontededeus.com.br/30-08-2023^Videos dos cultos do dia 30 de agosto de 2023 (Quarta-Feira) (Rincão)^cultos, culto, quarta, quarta-feira, quarta feira, rincão, rincao, agosto, 2023";
-s[47] = "Testemunho do jogador mirim sobre empresário^https://diretorio.iepafontededeus.com.br/30-08-2023/#jogadormirim^Jogador Mirim dá o testemunho na fila que Deus abriu as portas para ele, e que o empresário já chamou.^testemunho, jogador, futebol, empresario, empresário, rincao, rincão";
+s[47] = "Testemunho do jogador mirim sobre empresário (Rincão 30/08/2023)^https://diretorio.iepafontededeus.com.br/30-08-2023/#jogadormirim^Jogador Mirim dá o testemunho na fila que Deus abriu as portas para ele, e que o empresário já chamou.^testemunho, jogador, futebol, empresario, empresário, rincao, rincão";
+s[48] = "Testemunho de emprego, e livramento da irmã Fabiana (Aviso palavrão) (Rincão 30/08/2023)^https://diretorio.iepafontededeus.com.br/30-08-2023/#irmapalavrao^Irmã conta testemunho de emprego e de livramento de morte que Deus deu a ela (Aviso: este video contém 1 palavrão)^testemunho, livramento, emprego, trabalho, rincao, rincão, palavrão, palavrao";
 
 // ---------- end of script properties and sites ----------
 
