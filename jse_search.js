@@ -1,4 +1,5 @@
 
+s[49]
 
 // ---------- script properties ----------
 
@@ -59,6 +60,7 @@ s[45] = "Testemunho Irmã concorreu com 12 pessoas (Rincão 16/08/2023)^https://
 s[46] = "Cultos Quarta-Feira dia 30/08/2023 (Rincão)^https://diretorio.iepafontededeus.com.br/30-08-2023^Videos dos cultos do dia 30 de agosto de 2023 (Quarta-Feira) (Rincão)^cultos, culto, quarta, quarta-feira, quarta feira, rincão, rincao, agosto, 2023";
 s[47] = "Testemunho do jogador mirim sobre empresário (Rincão 30/08/2023)^https://diretorio.iepafontededeus.com.br/30-08-2023/#jogadormirim^Jogador Mirim dá o testemunho na fila que Deus abriu as portas para ele, e que o empresário já chamou.^testemunho, jogador, futebol, empresario, empresário, rincao, rincão";
 s[48] = "Testemunho de emprego, e livramento da irmã Fabiana (Aviso palavrão) (Rincão 30/08/2023)^https://diretorio.iepafontededeus.com.br/30-08-2023/#irmapalavrao^Irmã conta testemunho de emprego e de livramento de morte que Deus deu a ela (Aviso: este video contém 1 palavrão)^testemunho, livramento, emprego, trabalho, rincao, rincão, palavrão, palavrao";
+s[49] = "Video do Jogador Vinicius na Espanha^https://fb.watch/mDrPvGL4hq/?mibextid=2JQ9oc^Video gravado pelo jogador Vinicius da Espanha, onde ele agradece a Deus e ao Pastor Jesus^jogador, vinícius, espanha, futebol, jogo";
 
 // ---------- end of script properties and sites ----------
 
