@@ -2,7 +2,7 @@
 // ---------- script properties ----------
 
 
-var results_location = "https://busca.iepafontededeus.com.br/search.html";
+var results_location = "search.html";
 
 
 // ---------- end of script properties ----------
